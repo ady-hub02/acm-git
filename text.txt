@@ -1,4 +1,4 @@
 this is initialization
-edit by ady
+edit
 this is second commit
 
